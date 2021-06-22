@@ -1,0 +1,4 @@
+# Additional requirements on top of Python 3.8.5 base
+django
+djangorestframework
+psycopg2
